@@ -1,10 +1,10 @@
 [
     {
-        "nombre": "Ricardo Eguiluz Salas",
-        "rut": "18.747.642-9",
-        "fecha_nacimiento": "25/01/1994",
-        "direccion": "Leon xiii 12827 El Bosque",
-        "telefono": "+56930786956",
+        "nombre": "Ricardo",
+        "rut": "",
+        "fecha_nacimiento": "",
+        "direccion": "",
+        "telefono": "",
         "correo_electronico": "ricardo.eguiluz@inacapmail.cl",
         "genero": "m",
         "estado_civil": "soltero",
